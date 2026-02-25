@@ -14,6 +14,7 @@ Hiii I'm Yashmitha, interested in ML systems and research-oriented projects.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
 - systems:
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
@@ -25,6 +26,9 @@ Hiii I'm Yashmitha, interested in ML systems and research-oriented projects.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
+
 - Big data:
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
