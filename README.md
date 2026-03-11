@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/1200x/2a/b7/d4/2ab7d413230af01e379488186e03a2fe.jpg" width="100%" />
 Hiii I'm Yashmitha, interested in ML systems and research-oriented projects.
 
-## Tech stack
+<!--## Tech stack
 - Core ML : 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -36,4 +36,4 @@ Hiii I'm Yashmitha, interested in ML systems and research-oriented projects.
 - DevOps and tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)-->
