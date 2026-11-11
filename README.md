@@ -1,5 +1,5 @@
 <!-- <img src="https://i.pinimg.com/1200x/2a/b7/d4/2ab7d413230af01e379488186e03a2fe.jpg" width="100%" /> -->
-<img src="https://i.pinimg.com/736x/0d/ed/f3/0dedf3c1b53c1f0dfe6e42e454449ddc.jpg" width="100%" />
+<!-- <img src="https://i.pinimg.com/736x/0d/ed/f3/0dedf3c1b53c1f0dfe6e42e454449ddc.jpg" width="100%" /> -->
 Hiii I'm Yashmitha :D interested in ML, distributed systems and research projects.
 
 <!--## Tech stack
